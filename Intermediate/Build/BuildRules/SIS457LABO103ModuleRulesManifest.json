@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\SIS457LABO103\\Source\\SIS457LABO103\\SIS457LABO103.Build.cs",
+		"D:\\Unreal Projects\\SIS457LABO103\\Source\\SIS457LABO103.Target.cs",
+		"D:\\Unreal Projects\\SIS457LABO103\\Source\\SIS457LABO103Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
